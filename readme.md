@@ -1,3 +1,3 @@
-# git-demo仓库说明
+# git-demo文件说明
 
 Hello, git
